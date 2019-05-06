@@ -1,0 +1,35 @@
+body {
+    background-image: url(http://images.huffingtonpost.com/2015-07-13-1436751063-2895053-Bonnevillesign.jpg);
+    background-size: cover;
+  }
+  
+  .jumbotron {
+      margin-top: 20px;
+      padding-top: 20px;
+  }
+  
+  h1 {
+      text-shadow: 4px 4px #ccc;
+  }
+  
+  img {
+     float: left;
+     padding-right: 10px;
+  }
+  
+  .panel > p {
+      padding-right: 20px;
+      text-indent: 50px;
+      text-align: justify;
+  }
+  
+  blockquote {
+      margin-top: 80px;
+      background-color: #ccc;
+  }
+  
+  blockquote > p {
+      font-style: oblique;
+      font-weight: bold;
+      color: #fff;
+  }
